@@ -136,7 +136,8 @@ Aparte de eso, las empresas están utilizando Kubernetes porque se puede impleme
 - Pokémon Go : el juego multijugador en línea es uno de los juegos populares que muestra el poder de Kubernetes. Antes de su lanzamiento, se esperaba que este juego fuera razonablemente el juego más comentado. Pero después de su lanzamiento, recibió 50 veces más tráfico del esperado. Al usar Kubernetes, Pokémon Go pudo escalar alto para mantenerse al día con la demanda inesperada.
 - Pearson - Pearson es una empresa de educación global que atiende a 75 millones de estudiantes, con el objetivo de llegar a 200 millones en 2025. Pero a medida que suben las escaleras, se enfrentan a dificultades para escalar y adaptar la audiencia en línea. Necesitaban una plataforma que ayudara a escalar y adaptar la audiencia en línea y entregar el producto más rápido. Por lo tanto, implementaron la orquestación de contenedores de Kubernetes debido a su flexibilidad. Después de implementar esta plataforma, hubo mejoras sustanciales en la productividad y la velocidad de entrega. Las cosas que tardaron nueve meses en aprovisionar activos físicos en un centro de datos se redujeron a solo unos minutos para aprovisionar.
 - Pinterest : Pinterest es una plataforma de redes sociales muy popular que se convirtió en 1000 microservicios y tenía un conjunto variado de herramientas y plataformas. La empresa quería implementar la ruta de producción más rápida sin que los desarrolladores se preocuparan por la infraestructura. El equipo buscó una plataforma de orquestación de contenedores como Kubernetes para simplificar la implementación general y la administración de una infraestructura complicada. Después de implementar Kubernetes, la empresa redujo los tiempos de construcción y la eficiencia alcanzó su punto máximo.
-- 
+
+
 ### ¿Quiere utilizar Kubernetes? ¿Necesitará un cambio su arquitectura existente?
 
 - El proceso de inicio puede llevar tiempo:
