@@ -1,12 +1,19 @@
 # kubernetes-primera-guia
 
 A medida que los contenedores han ganado popularidad en los últimos años, la consultoría de Kubernetes está redefiniendo la forma en que se desarrolla, implementa y mantiene el software. La mayoría de los artículos en Internet declaran que Kubernetes está tomando por asalto la orquestación de contenedores.
+
 Nos preguntábamos sobre su uso, por lo que buscamos encuestas en la web y llegamos a la conclusión de que Kubernetes es la herramienta de orquestación de contenedores más utilizada.
+
 Si hay que creer en las estadísticas de los tres años anteriores, se puede decir con razón e indudable que Kubernetes es la plataforma de gestión de contenido más utilizada. Ha estado dominando el espacio de los contenedores durante un par de años.
-Aquí surge la pregunta: ¿Por qué? ¿Qué? ¿Cuándo? ¿Cómo?
+
+## Aquí surge la pregunta: ¿Por qué? ¿Qué? ¿Cuándo? ¿Cómo?
+
 Te lo explicaremos todo.
+
 Este artículo no es solo para líderes técnicos, sino también para un fundador no técnico que busca desarrollar la aplicación compleja mejorando la eficiencia y simplificando la carga de trabajo.
+
 Entonces, comencemos.
+
 Para obtener un conocimiento profundo sobre Kubernetes, puede inscribirse para una demostración en vivo de la capacitación en línea de Kubernetes.
 
 
