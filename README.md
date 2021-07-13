@@ -19,7 +19,7 @@ Entonces, comencemos.
 
 ## Antes de Kubernetes: cómo llegó Kubernetes a la existencia
 
-***La esencia de los contenedores***
+### La esencia de los contenedores
 
 Antes, los contenedores eran el mejor concepto para implementar aplicaciones. Dio un nuevo horizonte para desarrollar y mantener software. Con los contenedores, fue fácil para los desarrolladores de software empaquetar una aplicación que incluye componentes como bibliotecas y otras dependencias. Puede enviar un paquete completo sin la necesidad de una máquina virtual tradicional.
 
