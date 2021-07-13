@@ -50,13 +50,14 @@ Kubernetes es un sistema de gestión de contenedores de código abierto que se u
 Kubernetes ofrece mucho más que el marco básico, lo que permite a los usuarios elegir el tipo de marcos de aplicación, idiomas, herramientas de seguimiento y registro, y otras herramientas de su elección. Aunque no es una plataforma como servicio, se puede utilizar como base para una PaaS completa.
 
 En pocos años, se ha convertido en una herramienta muy popular y una de las mayores historias de éxito en la plataforma de código abierto.
-Arquitectura de Kubernetes: cómo funciona
+
+### Arquitectura de Kubernetes: cómo funciona
 
 ![1_nlS_0ARET4xNvdSeenq9oQ](https://user-images.githubusercontent.com/18565089/125482842-9bae47d8-b2ac-4c50-ba2c-04c2c8b672fd.png)
 
-## Arquitectura maestro-esclavo de Kubernetes y sus componentes:
+### Arquitectura maestro-esclavo de Kubernetes y sus componentes:
 
-## Maestro de Kubernetes:
+### Maestro de Kubernetes:
 es la unidad de control principal que administra las cargas de trabajo y la comunicación en todo el sistema. Cada uno de sus componentes tiene un proceso diferente que puede ejecutarse en un solo nodo maestro o en varios nodos maestros. Sus componentes son:
 
 - Etcd Storage : es un almacén de datos de valor clave de código abierto desarrollado por el equipo de CoreOS y todos los nodos del clúster pueden acceder a él. Kubernetes usa "Etcd" para almacenar datos de configuración del clúster para representar el estado general del clúster en cualquier momento.
