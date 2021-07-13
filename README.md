@@ -128,6 +128,7 @@ Docker Swarm se incluye estrechamente con el tiempo de ejecución de Docker; por
 A medida que este marco maduró, comenzaron a duplicarse con otras herramientas en términos de características y funcionalidad. Pero, Kubernetes es el único de todos y seguirá siendo popular debido a su arquitectura, innovación y una gran comunidad de código abierto.
 
 Kubernetes allana el camino para DevOps al permitir que el equipo se mantenga al día con los requisitos para el desarrollo de software. Sin Kubernetes, los equipos de desarrollo de software necesitan programar su propia implementación de software, escalarla manualmente y actualizar los flujos de trabajo. En una gran empresa, un gran equipo se encarga de esta tarea solo. Kubernetes ayuda a aprovechar la máxima utilidad de los contenedores y les permite desarrollar aplicaciones en la nube independientemente de los requisitos específicos de la nube.
+
 Aparte de eso, las empresas están utilizando Kubernetes porque se puede implementar en el centro de datos preexistente de la empresa en las instalaciones en uno de los entornos de nube pública e incluso se puede ejecutar como un servicio. Debido a que Kubernetes abstrae la capa de infraestructura subyacente, los desarrolladores pueden concentrarse en desarrollar aplicaciones y luego implementarlas en cualquiera de esos entornos. Esto aumenta la adopción de Kubernetes por parte de la empresa, ya que puede ejecutarse en las instalaciones sin dejar de desarrollar cualquier estrategia en la nube.
 
 ### Los casos de uso del mundo real de Kubernetes
