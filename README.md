@@ -29,7 +29,6 @@ Pero, una vez que la aplicación madura y se vuelve compleja, será necesario ej
 
 Por lo tanto, para resolver las necesidades de orquestación de la aplicación en contenedores, nació Kubernetes.
 
-Lleve su carrera a nuevas alturas de éxito con **Kubernetes Training**
 
 ## Historia de Kubernetes: descripción general rápida
 
